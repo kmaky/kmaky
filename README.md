@@ -1,7 +1,7 @@
 <ul>
   <li>
     <h3>
-      👋 Hi, I’m @kmaky
+      👋 Hi, I’m Klimentiy Mandra (@kmaky)
     </h3>
   </li>
   
